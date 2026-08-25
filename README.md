@@ -15,7 +15,7 @@ Python, Machine Learning, Streamlit, Pandas, Scikit-learn
 
 ## Live Demo
 
-[Credit Analysis System – Streamlit App](YOUR_STREAMLIT_LINK)
+[Credit Analysis System – Streamlit App](https://credit-analysis-system.streamlit.app/)
 
 ## Author
 
