@@ -20,4 +20,4 @@ Python, Machine Learning, Streamlit, Pandas, Scikit-learn
 ## Author
 
 **Khadeeja Jasla**
-B.Tech Computer Science & Engineering
+* B.Tech Computer Science & Engineering
