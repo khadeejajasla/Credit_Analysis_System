@@ -32,7 +32,7 @@ le_employment = pickle.load(open('le_employment.pkl', 'rb'))
 le_eligible = pickle.load(open('le_eligible.pkl', 'rb'))
 
 # Header
-st.markdown("<h1 style='text-align: center;'>💳 Credit Eligibility Prediction</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'> Credit Eligibility Prediction</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: gray;'>Enter applicant details below to check loan eligibility instantly</p>", unsafe_allow_html=True)
 st.write("")
 
